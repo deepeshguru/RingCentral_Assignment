@@ -2,7 +2,7 @@
 
 A simple web application that allows users to ask questions about car manuals using RAG (Retrieval Augmented Generation) with IBM Granite LLM.
 
-![Application Screenshot](Screenshot%202026-01-18%20at%207.46.50%20PM.png)
+![Application Screenshot](images/app-screenshot.png)
 
 ## Features
 
